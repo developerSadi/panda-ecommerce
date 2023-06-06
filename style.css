@@ -1,5 +1,5 @@
-.container-fluid{
-    margin-bottom: 100px;
+.container{
+    margin-bottom: 70px;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -18,4 +18,24 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+/* Banner Section ends here  */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #DA70D6;
+}
+.cat3{
+    background-color: #0000FF;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
 }
