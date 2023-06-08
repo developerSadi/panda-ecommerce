@@ -20,6 +20,8 @@
     cursor: pointer;
 }
 /* Banner Section ends here  */
+
+/* categories section start here  */
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
@@ -38,4 +40,43 @@
 }
 .categories img{
     width: 100px;
+}
+/* categories section ends here  */
+
+/* Shoes section start here  */
+.shoes .card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 15px;
+}
+/* Shoes section ends here  */
+
+/* backpack section start here  */
+.backpack .card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 15px;
+}
+.backpack .card-footer{
+    border: none;
+    background-color: white;
+}
+
+.footer-area{
+    background-color: #FFFFFF;
+}
+/* backpack section Ends here  */
+
+/* Footer Section Start Here  */
+.container{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bg-orange{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 70px 0px 70px 0px;
 }
